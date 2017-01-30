@@ -1,2 +1,3 @@
 # example-nodejs-express-security
-Security in node.js and express
+
+A simple example of security using node.js and express.
