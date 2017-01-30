@@ -1,0 +1,16 @@
+{
+  "name": "backend-tcc",
+  "version": "0.0.0",
+  "description": "backend tcc",
+  "main": "server.js",
+  "author": "Marcos Agostta <marcos.agostta@gmail.com>",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.2.1",
+    "mongoose": "^4.7.5",
+    "morgan": "^1.7.0",
+    "uuid": "^3.0.1"
+  }
+}
